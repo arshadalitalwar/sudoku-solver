@@ -88,8 +88,8 @@ h1 {
 @media only screen and (max-width: 601px) {
   .sudoku {
     position: relative;
-    width: 200px;
-    height: 200px;
+    width: 280px;
+    height: 280px;
     border: 1px solid black;
     box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
     display: grid;
