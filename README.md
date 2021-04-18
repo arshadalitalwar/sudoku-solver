@@ -1,4 +1,4 @@
 # sudoku-solver
 Sudoku Solver
 
-https://sharp-mayer-374467.netlify.app/
+https://sudoku-solver-374467-by-arshadali.netlify.app/
